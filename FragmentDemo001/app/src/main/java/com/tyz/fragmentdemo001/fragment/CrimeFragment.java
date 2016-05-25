@@ -24,6 +24,7 @@ public class CrimeFragment extends Fragment {
     private Button mBtnShow;
     @Override
     public void onCreate(Bundle savedInstanceState) {
+		// add by ted test
         super.onCreate(savedInstanceState);
         mCrime = new Crime();
     }
